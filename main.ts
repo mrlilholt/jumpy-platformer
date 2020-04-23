@@ -60,7 +60,7 @@ function giveIntroduction () {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `)
-    showInstruction("Move with the left and right buttons.")
+    showInstruction("Move with the left and right buttons. As fast as possible.")
     showInstruction("Jump with the up or A button.")
     showInstruction("Double jump by pressing jump again.")
 }
